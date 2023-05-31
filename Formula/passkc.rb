@@ -5,7 +5,7 @@ class Passkc < Formula
   desc ""
   homepage ""
   url "https://github.com/e6a5/passkc/releases/download/v1.0.0/passkc.tar.gz"
-  sha256 "11371671f4c4e3337a684b07fa3c99ea72907b1de49918b961fe46f89dc3c3e7"
+  sha256 "0d6f7d46cbf53012eb8bb8be1499fe8465a5c358de7b58a2ab1960d55750ce80"
   license ""
   
   def install
