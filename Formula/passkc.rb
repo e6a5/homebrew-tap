@@ -4,12 +4,12 @@
 class Passkc < Formula
   desc ""
   homepage ""
-  url "https://github.com/e6a5/passkc/releases/download/v0.0.5/passkc-v0.0.5-darwin-amd64.tar.gz"
+  url "https://github.com/e6a5/passkc/releases/download/v1.0.0/passkc.tar.gz"
   sha256 "11371671f4c4e3337a684b07fa3c99ea72907b1de49918b961fe46f89dc3c3e7"
   license ""
   
   def install
-    bin.install "passkc-v0.0.5-darwin-amd64" 
+    bin.install "passkc" 
   end
 
   test do
